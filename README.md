@@ -9,3 +9,4 @@
 - [Urbanization](https://public.tableau.com/app/profile/viktor.k.4624/viz/urbanization_16717458572080/Dashboard1?publish=yes).
 
 **Power BI:**
+- [Loans Analysis](dataset.pbix)
