@@ -10,3 +10,6 @@
 
 **Power BI:**
 - [Loans Analysis](dataset.pbix)
+
+**DASH:**
+- [COINCAP](coincap.py) - дашборд подключается к API Coincap и выводит стоимость выбранной крипотовалюты за выбранный период
